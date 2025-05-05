@@ -1,7 +1,0 @@
-## Interface: 11302
-## Title: SunderTrack
-## Version: 1.0
-## Author: Redmountain
-## SavedVariables: SunderTable
-
-core.lua
